@@ -1,45 +1,56 @@
-CAREER OBJECTIVE:	
-A dignified academic professor with an established, an in-depth knowledge in the discipline of core Computer Science; highly interested in participating in the development of new interdisciplinary programs of study; has deep commitment to teaching; excels in research.
-WORK EXPERIENCE:	
-•	Assistant Professor at Dayananda Sagar University, Bangalore	January 2022-Till Present
-•	Software Tester at Nokia, Bangalore	August 2020-July 2021
-EDUCATIONAL QUALIFICATION:	
-•	Ph.D (Computer Science and Engineering) VTU                                                                       Pursuing 
-•	M.Tech (Computer Science and Engineering) UVCE, Bangalore                                           October 2021 (92.4%)
-•	B.Tech (Computer Science and Engineering) M S Ramaiah University                                July 2019 (85.1%)              of Applied Sciences, Bangalore.	
-•	PUE (PCMB) MES SSM PU College, Chickmagalur                                                                    April 2015 (94.5%)
-•	SSLC, Sharada High School, Chickmagalur                                                                                 April 2013 (89.6%)
+# Data Scientist
 
-PUBLICATION DETAILS:	
-•	Vandana, W. M., and B. Kavya. "Soil Fertility Assessment and Crop Recommendation for Sustainable Farming using Machine Learning and Deep Learning." In 2024 4th International Conference on Data Engineering and Communication Systems (ICDECS), pp. 1-3. IEEE, 2024.
-•	Chirchi, Khushi E., and B. Kavya. "Unraveling Patterns in Healthcare Fraud through Comprehensive Analysis." In 2024 11th International Conference on Computing for Sustainable Global Development (INDIACom), pp. 585-591. IEEE, 2024.
-•	Devaiah, K. J., and B. Kavya. "Survey on Android Offloading using Cloud Computing Technology." In 2023 3rd International Conference on Innovative Mechanisms for Industry Applications (ICIMIA), pp. 1168-1171. IEEE, 2023.
-•	Kavya, B., and B. S. Jayasri. "Analysis on Feature Selection and Classification of Cardiovascular Disease using Machine Learning." In 2023 3rd International Conference on Mobile Networks and Wireless Communications (ICMNWC), pp. 1-8. IEEE, 2023.
-•	Kavya, B., G. Meghana, M. Roshni, and N. Bharanidharan. "Rat Swarm Optimizer based Transform for Performance Improvement of Machine Learning Classifiers in Diagnosis of Lung Cancer." In 2022 Smart Technologies, Communication and Robotics (STCR), pp. 1-5. IEEE, 2022.
-•	Paul, Bikram, Shubham Agnihotri, B. Kavya, Prachi Tripathi, and Narendra Babu. "Sustainable smart aquaponics farming using IoT and data analytics." Journal of Information Technology Research (JITR) 15, no. 1 (2022): 1-27.
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, Tableau
 
+## Education
+- Ph.D., Computer Science and Engineering | Visvesvaraya Technologoical University (_May 2023_-Till Present)								       		
+- M.Tech., Computer Science and Engineering	| University Visvesvaraya College of Engineering at Bangalore (_July 2021_)	 			        		
+- B.Tech., Computer Science and Engineering | M S Ramaiah Universityof Applied Sciences at Bangalore (_July 2019_)
 
- RESEARCH INTERESTS:	
-•	Data Analytics
-•	Artificial Intelligence
-•	Data Mining
-•	Machine Learning
-AREAS OF SPECIALIZATION:	
-•	Algorithms
-•	Artificial Intelligence
-•	Compilers
-•	Machine Learning
-•	Database Management Systems
-•	Theory of Computations
-•	Microprocessors and Computer Organization
-•	Digital Electronics and Logic Design
+## Work Experience
+**•	Assistant Professor @ PES University, Bangalore (_July 2024 - Till Present_)**
+**•	Assistant Professor @ Dayananda Sagar University, Bangalore (_January 2022 - June 2024_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-CONFERENCES / SEMINARS / WORKSHOPS/ FDPs ATTENDED	
-•	Participated in the “NPTEL E-Awareness workshop” On January 26th, 2022.
-•	Participated in a Three-Day Online FDP on “Best Practices and Innovative Teaching Methods” held on 3rd February 2022 to 5th February 2022.
-•	Participated and coordinated in “IP Awareness/Training program under National Intellectual Property Awareness Mission” on May 30,2022.
-•	Participated and successfully completed the One day hands-on workshop on “Creating Articles using LaTeX” held on 13th July 2022 at Dayananda Sagar University.
-•	Participated in the Workshop “Outcome-Based Education: Deciphering CO-PO Attainment” organized by the Department of Computer Science & Engineering, Dayananda Sagar University, Bengaluru on 14th July, 2022.
-•	Attended 5 day FDP on “Research Methodology on Machine Learning and Data Science” held during 10th July, 2023 to 14th July, 2023, organized by Department of CSE (DS), CSE (AI&ML) and AI&DS, B V Raju Institute of Technology, Narsapur, Telangana, India.
-•	Participated to present the paper on “A Review on feature selection and classification of Cardiovascular Disease using Machine Learning for 3rd IEEE International Conference on Mobile Networks and Wireless Communications (ICMNWC-2023) organized by Department of Electronics and Telecommunication Engineering, Sri Siddhartha Institute of Technology, Tumakuru in association with IEEE Bangalore Section during 04-05 December, 2023.
-•	Completed Microsoft, SAP & AICTE led FDP on “AI Evolution: From Foundations to Generative AI” under TechSaksham from 22nd January 2024 to 27th January 2024.
+**•	Software Tester @ Nokia, Bangalore (_August 2020 - July 2021_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
+### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+
+![Bike Study](/assets/img/bike_study.jpeg)
+
+## Talks & Lectures
+- Causality: The new science of an old question - GSP Seminar, Fall 2021
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
+- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
+- Weeks of Welcome Poster Competition - UTD, Fall 2019
+- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+
+- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
+## Publications
+1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
+4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
+5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
+6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
+7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
+8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
+9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+
+- [Data Science Blog](https://medium.com/@shawhin)
